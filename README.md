@@ -104,48 +104,32 @@ Data for this project is sourced from a global survey of employees across variou
 3. **RemoteWork,HypirdWork and OnsiteWork by Stress_Level**
    - **Visualization Type**:Clustered column chart
    - **Description**:
-   his visualization displays the number of employees categorized by their work modality (Remote Work, Hybrid Work, and Onsite Work) across different stress levels (High, Medium, and Low). The findings are as follows:
-     we find that in High level stress category number of:
-     1. RemoteWork : 590.
-     2. Hypird Work : 561.
-     3. OnsiteWork : 535.
-     we find that in Medium level stress category number of:
-     1. RemoteWork : 577.
-     2. Hypird Work : 545.
-     3. OnsiteWork : 547.
-     we find that in Low level stress category number of:
-     1. RemoteWork : 547.
-     2. Hypird Work : 543.
-     3. OnsiteWork : 555.
+   his visualization displays the number of employees categorized by their work modality (Remote Work, Hybrid Work, and Onsite Work) across different stress levels (High, Medium, and Low).
+     The findings are as follows:
+    a. High Stress: Remote Work has the highest number of employees, followed  by Hybrid Work and Onsite Work.
+    b. Medium Stress: The number of employees is relatively similar across all three work modalities.
+    c. Low Stress: Onsite Work has the highest number of employees, followed by Hybrid Work and Remote Work.
 - **Observations**
 . Number are too close to each other.
-. Remote Work has the highest number of employees in the High Stress category and the lowest in the Low Stress category.
-. Hybrid Work also shows the maximum number in the High Stress level and the minimum in the Low Stress level.
-. Onsite Work has the highest representation in the Low Stress category, with the fewest employees in the High Stress category.
+- The number of employees in each stress level is quite similar across the different work modalities, making it difficult to draw strong conclusions about the relationship between work modality and stress.
+- Remote Work is associated with higher levels of stress compared to Onsite Work, particularly in the High Stress category.
    - **Purpose**:
-     This visualization highlights the distribution of stress levels across different work settings, providing insights into employee well-being and potential areas for intervention or support.
+     This visualization aims to shed light on the distribution of stress levels among employees in different work environments, offering insights into employee well-being and potential areas for intervention or 
+      support
 
 4. **RemoteWork,HypirdWork and OnsiteWork by Sleep_Quality**
    - **Visualization Type**:Clustered column chart
    - **Description**:
-  This visualization illustrates the number of employees across different work modalities (Remote Work, Hybrid Work, and Onsite Work) categorized by their sleep quality (Average, Good, and Poor). The findings are as follows:
-     we find that in Average level category number of:
-     1. RemoteWork : 582.
-     2. Hypird Work : 518.
-     3. OnsiteWork : 528.
-     we find that in Good level category number of:
-     1. RemoteWork : 566.
-     2. Hypird Work : 567.
-     3. OnsiteWork : 554.
-     we find that in poor level category number of:
-     1. RemoteWork : 566.
-     2. Hypird Work : 564.
-     3. OnsiteWork : 555.
+  This visualization illustrates the number of employees across different work modalities (Remote Work, Hybrid Work, and Onsite Work) categorized by their sleep quality (Average, Good, and Poor).
+    The findings are as follows:
+     a. Average Sleep: Remote Work has the highest number of employees, followed by Onsite Work and Hybrid Work.
+     b. Good Sleep: Hybrid Work has the highest number of employees, followed by Remote Work and Onsite Work.
+     c. Poor Sleep: Onsite Work has the highest number of employees, followed by Remote Work and Hybrid Work.
   - **Obsevation**:
-. The numbers are closely aligned across work modalities, suggesting similar sleep quality experiences among employees in different settings.
-. Remote Work shows the highest number of employees in the Average sleep quality category, with consistent figures in both the Poor and Good categories.
-. Hybrid Work has the highest number of employees in the Good sleep quality category, while the lowest is found in the Average sleep quality category.
-. Onsite Work has the most employees reporting Poor sleep quality and the least in the Average category.
+- While there are slight differences in sleep quality distribution across work modalities, the overall trends are similar, suggesting that sleep quality is not strongly influenced by the specific work setting.
+- Remote Work is associated with a higher percentage of employees reporting average sleep quality.
+- Hybrid Work is associated with a higher percentage of employees reporting good sleep quality.
+- Onsite Work is associated with a higher percentage of employees reporting poor sleep quality.
 
    - **Purpose**:
       This visualization highlights the distribution of sleep quality across various work settings, providing insights into employee well-being and potential areas for enhancing work-life balance.
@@ -155,30 +139,16 @@ Data for this project is sourced from a global survey of employees across variou
    - **Description**:
      This visualization presents the distribution of employees across different work modalities (Remote Work, Hybrid Work, and Onsite Work) categorized by their life balance ratings (Poor, Fair, Good, Excellent, and Moderate). The findings are summarized as follows:
      we find that in Poor level category number of:
-     1. RemoteWork : 368.
-     2. Hypird Work : 322.
-     3. OnsiteWork : 333.
-     we find that in Good level category number of:
-     1. RemoteWork : 347.
-     2. Hypird Work : 323.
-     3. OnsiteWork : 310.
-     we find that in Excellent level category number of:
-     1. RemoteWork : 340.
-     2. Hypird Work : 338.
-     3. OnsiteWork : 299.
-     we find that in Moderate level category number of:
-     1. RemoteWork : 339.
-     2. Hypird Work : 348.
-     3. OnsiteWork : 366.
-     we find that in Fair level category number of:
-     1. RemoteWork : 320.
-     2. Hypird Work : 318.
-     3. OnsiteWork : 329.
+     a. Poor Life Balance: Remote Work has the highest number of employees, followed by Onsite Work and Hybrid Work.
+     b. Good Life Balance: The number of employees is relatively similar across all three work modalities.
+     c. Excellent Life Balance: The number of employees is relatively similar across all three work modalities.
+     d. Moderate Life Balance: Onsite Work has the highest number of employees, followed by Hybrid Work and Remote Work.
+     e. Fair Life Balance: Remote Work has the highest number of employees, followed by Onsite Work and Hybrid Work.
 **Observation**
-. The numbers across the different life balance ratings are relatively close to each other, indicating similar experiences among employees in various work settings.
+. While there are slight differences in life balance distribution across work modalities, the overall trends are similar, suggesting that life balance is not strongly influenced by the specific work setting.
 . Remote Work has the highest number of employees reporting Poor life balance and the lowest in the Fair category.
-. Hybrid Work shows the highest number in the Moderate life balance category, while the Fair category has the least number of employees.
-. Onsite Work has the most employees in the Moderate life balance category and the least in the Excellent category.
+. Onsite Work is associated with a higher percentage of employees reporting moderate life balance.
+. Hybrid Work shows a relatively balanced distribution across the different life balance categories.
    - **Purpose**:
      This visualization highlights the distribution of life balance across different work modalities, providing valuable insights into employee well-being and areas for potential improvement in work-life balance policies.
 
@@ -187,32 +157,213 @@ Data for this project is sourced from a global survey of employees across variou
    - **Description**:
      This visualization illustrates the distribution of employees across different work modalities (Remote Work, Hybrid Work, and Onsite Work) based on their ratings of social isolation (Poor, Fair, Good, Excellent, and Moderate). The findings are summarized as follows:
      we find that in Poor level category number of:
-     1. RemoteWork : 368.
-     2. Hypird Work : 322.
-     3. OnsiteWork : 333.
-     we find that in Good level category number of:
-     1. RemoteWork : 347.
-     2. Hypird Work : 323.
-     3. OnsiteWork : 310.
-     we find that in Excellent level category number of:
-     1. RemoteWork : 340.
-     2. Hypird Work : 338.
-     3. OnsiteWork : 299.
-     we find that in Moderate level category number of:
-     1. RemoteWork : 339.
-     2. Hypird Work : 348.
-     3. OnsiteWork : 366.
-     we find that in Fair level category number of:
-     1. RemoteWork : 320.
-     2. Hypird Work : 318.
-     3. OnsiteWork : 329.
+     a. Poor Social Isolation: Remote Work has the highest number of employees, followed by Onsite Work and Hybrid Work.
+     b. Good Social Isolation: The number of employees is relatively similar across all three work modalities.
+     c. Excellent Social Isolation: The number of employees is relatively similar across all three work modalities.
+     d. Moderate Social Isolation: Onsite Work has the highest number of employees, followed by Hybrid Work and Remote Work.
+     e. Fair Social Isolation: Remote Work has the highest number of employees, followed by Onsite Work and Hybrid Work.
 - **Observation**
-. The numbers across different social isolation ratings are relatively close, indicating similar experiences among employees in various work settings.
-. Remote Work has the highest number of employees reporting Poor social isolation and the lowest in the Fair category.
-. Hybrid Work shows the highest number in the Moderate social isolation category, while it has the least in the Fair category.
-. Onsite Work has the most employees in the Moderate social isolation category and the least in the Excellent category.
+. While there are slight differences in social isolation distribution across work modalities, the overall trends are similar, suggesting that social isolation is not strongly influenced by the specific work setting.
+. Remote Work is associated with a higher percentage of employees reporting poor or fair social isolation.Remote Work has the highest number of employees reporting Poor social isolation and the lowest in the Fair category.
+. Onsite Work is associated with a higher percentage of employees reporting moderate social isolation.
+. Hybrid Work shows a relatively balanced distribution across the different social isolation categories.
    - **Purpose**:
      This visualization highlights the distribution of social isolation experiences across different work modalities, providing valuable insights into employee social well-being and areas for potential improvement in workplace connectivity and support.
+     
+ 7. **Indusrty**
+      - **Visualization Type**: Slicer.
+      - **Description**:
+        fThis slicer enables users to filter data by selecting specific industries, allowing a focused analysis on the chosen sector
+      -  **Purpose** :
+        The slicer helps determine and display results for a specific industry. It supports HR professionals and business leaders in understanding industry-specific trends and insights.
+
+8. **job**
+    - **Visualization Type**: Slicer.
+      - **Description**:
+        fThis slicer enables users to filter data by selecting specific job roles, allowing a focused analysis on the chosen sector
+      -  **Purpose** :
+        The slicer helps determine and display results for a specific job role , It supports HR professionals and business leaders in understanding Job role-specific trends and insights.
+   ![Screenshot 2024-10-13 130758](https://github.com/user-attachments/assets/d3107b48-b522-4dda-9c9f-ff6d6ce006dc)
+9 . **RemoteWork,HypirdWork and OnsiteWork by Physical_Activity**
+   - **Visualization Type**:Clustered column chart
+   - **Description**:
+   This visualization displays the number of employees categorized by their work modality (Remote Work, Hybrid Work, and Onsite Work) across different Physical_activity levels (Daily,Weekly,None).
+   The findings are as follows:
+     a. Daily Physical Activity: Remote Work has the highest number of employees, followed by Hybrid Work and Onsite Work.
+     b. Weekly Physical Activity: Hybrid Work has the highest number of employees, followed by Remote Work and Onsite Work.
+     c. No Physical Activity: Remote Work has the highest number of employees, followed by Hybrid Work and Onsite Work.
+- **Observations**
+. While there are slight differences in physical activity distribution across work modalities, the overall trends are similar, suggesting that physical activity levels are not strongly influenced by the specific work setting..
+.Remote Work is associated with a higher percentage of employees engaging in daily or weekly physical activity.
+. Onsite Work shows a slightly higher percentage of employees reporting no physical activity.
+   - **Purpose**:
+     This visualization highlights the distribution of Physical_activity levels across different work settings, providing insights into employee well-being and potential areas for intervention or support.
+     
+10 . **RemoteWork,HypirdWork and OnsiteWork by Mental_Health_Conditions**
+   - **Visualization Type**:Clustered column chart
+   - **Description**:
+   This visualization displays the number of employees categorized by their work modality (Remote Work, Hybrid Work, and Onsite Work) across different Mental_Health_Conditions levels (Anxiety,Burnout,None,Depression).
+The findings are as follows:
+     we find that in Anxiety level Mental_Health_Conditions category number of:
+     a. Anxiety: Remote Work has the highest number of employees, followed by Hybrid Work and Onsite Work.
+     b. Burnout: Remote Work has the highest number of employees, followed by Onsite Work and Hybrid Work.
+     c. None: Remote Work has the highest number of employees, followed by Hybrid Work and Onsite Work.
+     d. Depression: Remote Work has the highest number of employees, followed by Hybrid Work and Onsite Work.
+- **Observations**
+. Number are too close to each other.
+.  Remote Work is associated with a higher percentage of employees reporting various mental health conditions.
+.  Onsite Work shows a slightly lower percentage of employees reporting mental health conditions, particularly anxiety and burnout.
+   - **Purpose**:
+     This visualization highlights the distribution of Mental_Health_Conditions levels across different work settings, providing insights into employee well-being and potential areas for intervention or support.
+     
+ 11. **RemoteWork,HypirdWork and OnsiteWork by Productivity_Change**
+   - **Visualization Type**:Clustered column chart
+   - **Description**:
+   This visualization displays the number of employees categorized by their work modality (Remote Work, Hybrid Work, and Onsite Work) across different Productivity_Change levels (Decrease, No Change , Increase ).
+   The findings are as follows:
+     we find that in Decrease level Productivity_Change category number of:
+     1. RemoteWork : 588.
+     2. Hypird Work : 591.
+     3. OnsiteWork : 558.
+     we find that in  No Change level Productivity_Change category number of:
+     1. RemoteWork : 568.
+     2. Hypird Work : 544.
+     3. OnsiteWork : 565.
+     we find that in Increase level Productivity_Change category number of:
+     1. RemoteWork : 558.
+     2. Hypird Work : 514.
+     3. OnsiteWork : 514.
+- **Observations**
+. Number are too close to each other.
+. Remote Work has the highest number of employees in the Decrease & Increase Productivity_Change category and the lowest in the No Change Physical_activity category.
+. Hybrid Work also shows the maximum number in the Deacrese Productivity_Change level and the minimum in the Increase Productivity_Change level.
+. Onsite Work has the highest representation in the No Change Productivity_Change category, with the fewest employees in the Increase Productivity_Change category.
+   - **Purpose**:
+     This visualization highlights the distribution of Productivity_Change levels across different work settings, providing insights into employee well-being and potential areas for intervention or support.
+
+12. **RemoteWork,HypirdWork and OnsiteWork by Gender**
+   - **Visualization Type**:Clustered column chart
+   - **Description**:
+   This visualization displays the number of employees categorized by their work modality (Remote Work, Hybrid Work, and Onsite Work) across different Gender levels (Female, Male,Perfer not to say , Non-binary ).
+   The findings are as follows:
+     we find that in Female level Gender category number of:
+      a. Decrease in Productivity: Remote Work and Hybrid Work have similar numbers of employees, followed by Onsite Work.
+      b. No Change in Productivity: Onsite Work has the highest number of employees, followed by Remote Work and Hybrid Work.
+      c. Increase in Productivity: Remote Work and Hybrid Work have similar numbers of employees, followed by Onsite Work.
+- **Observations**
+. Number are too close to each other.
+. Remote Work and Hybrid Work are associated with a higher percentage of employees reporting a decrease or increase in productivity.
+. Onsite Work is associated with a higher percentage of employees reporting no change in productivity.
+   - **Purpose**:
+     This visualization highlights the distribution of Gender levels across different work settings, providing insights into employee well-being and potential areas for intervention or support.
+
+ 13 . **Indusrty**
+      - **Visualization Type**: Slicer.
+      - **Description**:
+        fThis slicer enables users to filter data by selecting specific industries, allowing a focused analysis on the chosen sector
+      -  **Purpose** :
+        The slicer helps determine and display results for a specific industry. It supports HR professionals and business leaders in understanding industry-specific trends and insights.
+
+14. **job**
+    - **Visualization Type**: Slicer.
+      - **Description**:
+        fThis slicer enables users to filter data by selecting specific job roles, allowing a focused analysis on the chosen sector
+      -  **Purpose** :
+        The slicer helps determine and display results for a specific job role , It supports HR professionals and business leaders in understanding Job role-specific trends and insights.
+     
+![Screenshot 2024-10-13 130810](https://github.com/user-attachments/assets/747adbc9-9a67-4edc-bca6-85675731148b)
+
+15. **Unsatisfied , Satisfied and neutral by Job Role**
+   - **Visualization Type**:Line chart
+   - **Description**:
+   This visualization explores the relationship between job roles and employee satisfaction across different work modalities. The x-axis represents various job roles, while the y-axis represents employee satisfaction levels (Unsatisfied, Satisfied, and Neutral).
+a. Designers are the most unsatisfied category.
+b. Sales are the most satisfied category.
+c. Project managers are the most netral category.
+- **Observations**
+. The differences in satisfaction levels between job roles are more pronounced than the differences between work modalities.
+. Some job roles, such as designers, consistently exhibit lower satisfaction levels regardless of work modality.
+   - **Purpose**:
+     This visualization aims to identify how job roles and work modalities interact to influence employee satisfaction, providing insights into potential areas for improvement in job design or work environment to enhance overall employee well-being.
+     
+16. **RemoteWork, HybridWork, and OnsiteWork by ExperienceLevel**
+   - **Visualization Type**:Line chart
+   - **Description**:
+   This visualization explores the relationship between employees categorized by their work modality (Remote Work, Hybrid Work, and Onsite Work) across different ExperienceLevel.
+ The x-axis represents various ExperienceLevel, while the y-axis represents  employees categorized by their work modality (Remote Work, Hybrid Work, and Onsite Work).
+a. Early Career: Employees in the Early Career stage are more likely to be assigned to Remote Work compared to later stages. 
+b. Mid-Level and Veteran: Employees at these levels tend to have a higher representation in Hybrid Work and Onsite Work compared to earlier stages.
+c. Experienced: This group shows a relatively balanced distribution across work modalities.
+- **Observations**
+.The choice of work modality seems to be influenced by experience level.
+. As employees gain experience, they are more likely to be assigned to Hybrid or Onsite roles, potentially due to increased responsibilities or the need for in-person collaboration.
+   - **Purpose**:
+     This visualization provides insights into the distribution of work modalities across different experience levels, highlighting potential trends in career progression and the allocation of work tasks. It can inform HR policies related to talent development and work assignments.
+
+ 17. **Remote Work, Hybrid Work, and Onsite Work by Type of Work**
+   - **Visualization Type**:Line chart
+   - **Description**:
+   This visualization explores the relationship between the type of work (Part-time, Standard Full-time, Extended Full-time, Overtime) and the distribution of employees across different work modalities (Remote Work, Hybrid Work, and Onsite Work).
+a. Part-time: Remote Work is the dominant work modality, with a significantly higher number of employees compared to Hybrid or Onsite Work.
+b. Standard Full-time: Hybrid Work has the highest representation, followed by Remote Work and Onsite Work.
+c. Extended Full-time: Remote Work and Hybrid Work have similar levels, with Onsite Work being the least common.
+d. Overtime: Remote Work is the most common, followed by Hybrid Work and Onsite Work.
+- **Observations**
+. The choice of work modality seems to be influenced by the type of work.
+. Part-time work is strongly associated with Remote Work, while Standard Full-time and Extended Full-time roles have a more balanced distribution across modalities.
+. Overtime work is also more frequently associated with Remote Work.
+   - **Purpose**:
+     This visualization provides insights into the distribution of work modalities across different types of work, highlighting potential trends in the allocation of tasks and the relationship between work hours and work arrangements. It can inform HR policies related to work flexibility and job design.
+     
+ 18 . **Indusrty**
+      - **Visualization Type**: Slicer.
+      - **Description**:
+        fThis slicer enables users to filter data by selecting specific industries, allowing a focused analysis on the chosen sector
+      -  **Purpose** :
+        The slicer helps determine and display results for a specific industry. It supports HR professionals and business leaders in understanding industry-specific trends and insights.
+
+19. **job**
+    - **Visualization Type**: Slicer.
+    - **Description**:
+        This slicer enables users to filter data by selecting specific job roles, allowing a 
+      focused analysis on the chosen sector
+      -  **Purpose** :
+        The slicer helps determine and display results for a specific job role , It supports 
+        HR professionals and business leaders in understanding Job role-specific trends and insights.
+
+ ![Screenshot 2024-10-14 231810](https://github.com/user-attachments/assets/d2cf7bb3-91c3-4534-9d91-ab84834ec420)
+
+ 20 . **Sum of Company_Support_for_Remote_Work by Region**
+     - **Visualization Type**:Clustered column chart
+     - **Description**:
+  This visualization compares the level of company support for remote work across different regions (Oceania, Africa, South America, Europe, Asia, North America).
+     a. Regional Variations: There are slight variations in company support, with Oceania and Africa showing slightly higher levels compared to other regions.
+    b. Overall High Support: Across all regions, there is a significant level of company support for remote work.
+   - **Observations**
+   . The differences between regions are relatively small, suggesting that company support for remote work is becoming more widespread.
+   . Factors specific to each region (e.g., cultural norms, economic conditions, technological infrastructure) may influence the level of support.
+   - **Purpose**:
+     This visualization provides insights into the global trends in company support for remote work, highlighting regional differences and potential factors influencing these variations. It can inform HR professionals and business leaders in understanding the evolving landscape of remote work policies and practices.
+
+ 21 . **Remote Work, Hybrid Work, and Onsite Work by Meeting Level**
+       - **Visualization Type**:Clustered column chart
+       - **Description**:
+  This visualization compares the number of employees in different work modalities (Remote Work, Hybrid Work, and Onsite Work) based on their level of meeting engagement (Minimal, High, Moderate).
+     a. Minimal Engagement: Remote Work has the highest number of employees, followed by 
+       Hybrid Work and Onsite Work.
+     b.High Engagement: Hybrid Work has the highest number of employees, followed by Remote 
+       Work and Onsite Work.
+     c. Moderate Engagement: Hybrid Work has the highest number of employees, followed by 
+        Remote Work and Onsite Work.
+    - **Observations**
+    . While there are slight differences in meeting engagement distribution across work modalities, the overall trends are similar, suggesting that meeting engagement is not strongly influenced by the specific work setting.
+    . Remote Work is associated with a higher percentage of employees reporting minimal engagement.
+    . Hybrid Work shows a relatively balanced distribution across meeting engagement levels.
+    . Onsite Work is associated with a slightly higher percentage of employees reporting high engagement.
+   - **Purpose**:
+     This visualization aims to explore the relationship between work modality and meeting engagement, providing insights into employee communication patterns and potential strategies to optimize virtual meetings in different work environments.
+
+     
 
 ## Key Insights and Findings
 
